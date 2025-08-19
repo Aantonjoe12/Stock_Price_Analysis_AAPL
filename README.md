@@ -10,7 +10,7 @@ This project is a Python-based Jupyter Notebook that automatically analyses the 
 
 - Visualizes closing prices and the distribution of daily returns.
 
-- Computes key metrics including average daily return, annualized return, daily and annualized volatility, and extreme single-day gains and losses.
+- Computes key metrics including average daily return, annualised return, daily and annualised volatility, and extreme single-day gains and losses.
 
 - Generates a risk-return profile with a summary of growth trends and volatility.
 
