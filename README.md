@@ -1,6 +1,6 @@
 # Stock Price Analysis Tool
 
-This project is a Python-based Jupyter Notebook that automatically analyses the historical stock price of a given ticker symbol. It retrieves stock data using yfinance, calculates key metrics, and visualizes trends and volatility to provide actionable insights for investors or data analysts.
+This project is a Python-based Jupyter Notebook that automatically analyses the historical stock price of a given ticker symbol. It retrieves stock data using yfinance, calculates key metrics, and visualises trends and volatility to provide actionable insights for investors or data analysts.
 
 ## Key Features
 
